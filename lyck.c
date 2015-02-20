@@ -4,8 +4,10 @@
 #include <fcntl.h> /* File control definitions */
 #include <errno.h> /* Error number definitions */
 #include <termios.h> /* POSIX terminal control definitions */
-#include "rxvx700.h" /* Yamaha RX-Vx700 protocol codes */
+#include "inbetween.h" /* adding codes a few at a time to see what broke */
+//#include "rxvx700.h" /* Yamaha RX-Vx700 protocol codes */
 //#include "universal.h" /* Big list of Yamaha protocol codes */
+
 
 #define STX 0x02
 #define ETX 0x03
