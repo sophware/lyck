@@ -19,7 +19,7 @@ const char* cmd[][2] = {
     {"input cblsat", "07AC0"},
     {"input vcr1", "07A0F"},
     {"input vcr2dvr", "07A13"},
-    {"input v-aux", "07A55"}
+    {"input v-aux", "07A55"},
 
     {"volume up", "07A1A"},
     {"volume down", "07A1B"}, 
