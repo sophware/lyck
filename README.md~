@@ -36,7 +36,7 @@ http://dl.panticz.de/lyc/ar9132/lyc - Atheros AR9132 (TP-LINK TL-WR1043ND / TL-W
 http://www.panticz.de/USB-Serial-adapter
 
 4. Run command  
-`./lyck input dvd`  
-`./lyck volume up`
+`./lyc input dvd`  
+`./lyc volume up`
 
 
