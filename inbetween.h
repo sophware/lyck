@@ -1,5 +1,9 @@
 // todo: add Zone2 and Zone3
 const char* cmd[][2] = {
+    {"master on", "07A1D"},
+    {"master off", "07A1E"},
+    {"main on", "07E7E"},
+    {"main off", "07E7F"},
     {"power on", "07E7E"},
     {"power off", "07E7F"},
 
